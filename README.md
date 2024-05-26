@@ -1,5 +1,5 @@
 ## Hello there 👋
-🌱 I’m currently learning how to work with Jenkins and Ansible!
+🌱 I’m currently working with Jenkins and Ansible!
 
 <!--
 **gpmorales/gpmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
