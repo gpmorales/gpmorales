@@ -1,5 +1,5 @@
 ## Hello there 👋
-🌱 I’m currently working with Ansible, Docker, Spring, and GitLab!
+🌱 I’m currently working with Ansible, Jenkins, Spring, and GitLab!
 
 <!--
 **gpmorales/gpmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
