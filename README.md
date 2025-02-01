@@ -1,6 +1,6 @@
 ## Hello there! 👋  
 
-#### 🎯 Position Incoming Software Engineer IC2 @ RII  
+#### 🎯 Incoming Software Engineer IC2 @ RII  
 
 Emory CS student with a near-perfect GPA. Backend specialist with frontend expertise and strong DevOps experience. 
 Currently working for RII, a defense & cybersecurity company, contributing to cutting-edge projects for the DoD and Combatant Commands. 
