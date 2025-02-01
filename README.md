@@ -5,7 +5,6 @@
 
 Emory CS student with a near-perfect GPA. Backend specialist with frontend expertise and strong DevOps experience. 
 Currently working at RII, a defense & cybersecurity company, contributing to cutting-edge projects for the DoD and Combatant Commands. 
-Successfully launched a rapidly growing AI-driven data visualization platform. 
 Experienced in building scalable systems, automating deployments, and optimizing cloud infrastructure.
 
 ---
