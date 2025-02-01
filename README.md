@@ -2,7 +2,7 @@
 
 #### 🎯 Incoming Software Engineer IC2 @ RII  
 
-Emory CS student with a near-perfect GPA. Backend specialist with frontend expertise and strong DevOps experience. 
+I am an Emory CS student with a near-perfect GPA. I consider myself a Backend specialist with Frontend expertise and strong DevOps experience. 
 Currently working for RII, a defense & cybersecurity company, contributing to cutting-edge projects for the DoD and Combatant Commands. 
 Experienced in building scalable systems, automating deployments, and optimizing cloud infrastructure.
 
