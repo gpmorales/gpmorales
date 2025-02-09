@@ -1,8 +1,6 @@
 ## Hello there! 👋  
 
-#### 🎯 Incoming Software Engineer IC2 @ RII  
-
-I'm an Emory CS student with a near-perfect GPA, specializing in backend development while also bringing strong DevOps experience. Currently, I work at RII, a defense technology contractor, where I contribute to cutting-edge projects for the DoD, Joint Staff, Combatant Commands, and the USAF. My experience includes building scalable systems, automating deployments, and optimizing cloud infrastructure.
+I'm an Emory CS student with a near-perfect GPA, specializing in backend development and bringing strong DevOps experience. I work for a defense contractor, contributing to cutting-edge projects for the DoD, Joint Staff, Combatant Commands, and the USAF. My experience includes building scalable systems, automating deployments, and optimizing cloud infrastructure.
 
 ---
 
