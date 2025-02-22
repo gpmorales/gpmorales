@@ -1,6 +1,6 @@
 ## Hello there! 👋  
 
-I'm an Emory CS student with a near-perfect GPA, specializing in backend development and bringing strong DevOps experience. I work for a defense contractor, contributing to cutting-edge projects for the DoD, Joint Staff, Combatant Commands, and the USAF. My experience includes building scalable systems, automating deployments, and optimizing cloud infrastructure.
+I'm an Emory CS student with a near-perfect GPA, specializing in backend development and DevOps engineering. I work for a defense contractor, contributing to cutting-edge projects for the DoD, Joint Staff, Combatant Commands, and the USAF. My experience includes building scalable systems, automating deployments, and optimizing cloud infrastructure.
 
 ---
 
