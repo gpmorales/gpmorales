@@ -1,6 +1,6 @@
 ## Hello there! 👋  
 
-I'm a Software Engineer at RII, a defense contractor, where I contribute to mission-critical projects for the U.S Department of Defense (DOD). My efforts focus on backend development, DevOps, and web infrastructure — building scalable systems, automating deployments, and optimizing cloud environments to support secure and reliable operations.
+I'm a Software Engineer at a defense contractor, where I contribute to mission-critical projects for the U.S Department of Defense (DOD). My efforts focus on backend development, DevOps, and web infrastructure — building scalable systems, automating deployments, and optimizing cloud environments to support secure and reliable operations.
 
 ---
 
